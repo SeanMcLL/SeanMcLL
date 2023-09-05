@@ -26,3 +26,12 @@ I'm a software engineer with a bachelor's degree in computer science from Penn S
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<br />
+
+##
+
+### 📺 Videos and Tech Demos
+
+https://www.youtube.com/watch?v=oSDLl-srnLk
+
+https://www.youtube.com/watch?v=Pn65Uzx1Cnc
